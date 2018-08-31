@@ -6,9 +6,9 @@ How to use:
 - Scroll down to the main function and right click 'Run > Unittests .."
 
 Debugging:
-- Make sure your working file is called 'practice_0.py'
+- Make sure your working file is called 'practice_1.py'
 - Make sure you have not changed the function names.
-- Check to see if the function calls in 'self.assertEqual()' match your function names in 'practice_0.py'
+- Check to see if the function calls in 'self.assertEqual()' match your function names in 'practice_1.py'
 """
 
 class TestPractice0(unittest.TestCase):
