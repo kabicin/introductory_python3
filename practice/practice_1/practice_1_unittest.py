@@ -1,5 +1,5 @@
 import unittest
-from practice_0 import *
+from practice_1 import *
 
 """
 How to use:
@@ -11,7 +11,7 @@ Debugging:
 - Check to see if the function calls in 'self.assertEqual()' match your function names in 'practice_1.py'
 """
 
-class TestPractice0(unittest.TestCase):
+class TestPractice1(unittest.TestCase):
     def test_get_sum_sorted_empty_list(self):
         testlist = []
         self.assertEqual(get_sum_sorted(testlist), 0)
