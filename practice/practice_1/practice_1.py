@@ -6,9 +6,9 @@ Task:
 - Complete the function body of the templates written below.
 
 How to check answers:
-1. Run practice_0.py and make sure all tests pass. (Right click over the function and
+1. Run practice_1.py and make sure all tests pass. (Right click over the function and
 click 'Run > Doctest <function name>')
-2. Run practice_0_unittest.py and make sure all extra tests pass.
+2. Run practice_1_unittest.py and make sure all extra tests pass.
 '''
 
 
