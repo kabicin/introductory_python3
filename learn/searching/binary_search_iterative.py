@@ -1,5 +1,5 @@
 """
-Binary Search
+Iterative Binary Search
 
 You may have heard of linear search. Where we search a list to find an element val, such as 2 in the list
 [3, 2, 6, 7, 4]. Take a look at the linear_search() method below.
