@@ -8,6 +8,6 @@ Materials for introductory level Python 3.7
 - To check answers, an additional <b>practice_x_solutions.py</b> file will be provided throughout the course.
 
 ### :two: Learn
-- This section of the repository contains a collection of my annotated notes on various algorithms or puzzles.
+- This section of the repository contains a collection of my annotated notes on various algorithms and/or puzzles.
 
 :whale: Happy coding! :whale:
